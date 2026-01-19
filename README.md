@@ -1,8 +1,10 @@
-- 👋 Hello, je suis @J-IFT (ou Juliette tout simplement) ! 😊
+- 👋 Hello, je suis @DevByJLT ! 😊
 
-- 📚 Je suis étudiante en deuxième année de master informatique à l'EPSI. Actuellement en alternance, dans l'entreprise TESSI, dans l'objectif de préparer le titre de "Expert en informatique et système d'information".
+- 📚 Après plusieurs années en informatique, j’ai créé ChokoDev pour aider les petites entreprises à exister sur le web facilement et à prix abordable. Je conçois des sites OnePage, vitrines et e-commerce, avec hébergement, nom de domaine, maintenance et référencement inclus. Je crois qu’un site web ne devrait pas être un luxe : il doit être utile, simple et accessible pour tous ceux qui travaillent dur pour leur activité.
+- 📩 Contact : contact@chokodev.fr
+- 🌐 Site : https://chokodev.fr/
 
-- 💻 Mon site web perso : https://j-ift.github.io/juliette-ift.github.io/
+- 💻 Mon site web perso : https://dev-by-juliette.fr/
 
 - 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
 
