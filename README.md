@@ -4,8 +4,6 @@
 
 - 💻 Mon site web perso : https://dev-by-juliette.fr/
 
-- 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
-
 - 📌 La plupart de mes projets scolaires se trouvent ici avec les consignes correspondantes à chaque projet. Pour les plus anciens, il y a aussi une vidéo de démonstration !
 
 - PS = projet scolaire, PP = projet personnel
