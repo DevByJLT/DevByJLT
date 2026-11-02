@@ -1,8 +1,8 @@
 - 👋 Hello, je suis @DevByJLT ! 😊
 
-- 📚 Après plusieurs années en informatique, j’ai créé ChokoDev pour aider les petites entreprises à exister sur le web facilement et à prix abordable. Je conçois des sites OnePage, vitrines et e-commerce, avec hébergement, nom de domaine, maintenance et référencement inclus. Je crois qu’un site web ne devrait pas être un luxe : il doit être utile, simple et accessible pour tous ceux qui travaillent dur pour leur activité. 📩 Contact : contact@chokodev.fr | 🌐 Site : https://chokodev.fr/
+- 📚 Après plusieurs années en informatique, j’ai créé ChokoDev pour aider les petites entreprises à exister sur le web facilement et à prix abordable. Je conçois des sites OnePage, vitrines et e-commerce, avec hébergement, nom de domaine, maintenance et référencement inclus. Je crois qu’un site web ne devrait pas être un luxe : il doit être utile, simple et accessible pour tous ceux qui travaillent dur pour leur activité. 📩 Contact : contact@choko-dev.fr | 🌐 Site : https://choko-dev.fr/
 
-- 💻 Mon site web perso : https://dev-by-juliette.fr/
+- 💻 Mon site web perso : https://devbyjuliette.fr/
 
 - 📌 La plupart de mes projets scolaires se trouvent ici avec les consignes correspondantes à chaque projet. Pour les plus anciens, il y a aussi une vidéo de démonstration !
 
